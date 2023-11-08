@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Esse projeto foi criado para o treinamento de Menu, onde treinei a parte de NAV do projeto. esse projeto se adpta para telas menores
+Esse projeto foi criado para o treinamento de Menu, onde treinei a parte de NAV do projeto. esse projeto se adapta para telas menores
 
 ## Objetivo
 
