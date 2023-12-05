@@ -33,3 +33,9 @@ https://menu-sable-eta.vercel.app/
 O projeto está disponível em [https://menu-sable-eta.vercel.app/) para visualização.
 
 Seja bem-vindo ao MENU, e sinta-se à vontade para contribuir ou entrar em contato conosco!
+
+
+
+![MENU CAPTURA](https://github.com/DavidoMello/menu/assets/138627500/e9a2a1e4-4e7c-4749-9266-77d2de88a130)
+
+
